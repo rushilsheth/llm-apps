@@ -34,6 +34,8 @@ Run the Gradio application:
 python search_app.py
 ```
 
+![TurboSeek in action](turboseek.png)
+
 ## Features
 - **Search Results**: Retrieves search results from Brave Search.
 - **AI-Powered Responses**: Generates detailed responses using Together AI's language models.
